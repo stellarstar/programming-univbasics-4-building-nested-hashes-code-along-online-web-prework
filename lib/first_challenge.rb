@@ -1,6 +1,6 @@
 def bonus
   epic_tragedy = {
-     { :montague =>{}
+     { :montague =>{},
       :patriarch =>{},
       :matriarch =>{},
       :hero =>{},
